@@ -27,7 +27,7 @@ export const Articles: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-6">
            <div>
               <h2 className="font-poster text-5xl md:text-7xl mb-2">KNOWLEDGE<br/>BASE</h2>
-              <p className="font-body text-lg max-w-md">Understanding the problem is the first step to solving it. Read about our research.</p>
+              <p className="font-body text-lg max-w-md">Understanding the problem is the first step to solving it. Read about the Latest research articles.</p>
            </div>
            <div className="hidden md:block">
               <BookOpen size={48} strokeWidth={1} />
