@@ -65,7 +65,7 @@ export const Hero: React.FC = () => {
             transition={{ duration: 0.8 }}
           >
              <img 
-               src="https://images.unsplash.com/photo-1564669941166-8e1563d496e0?q=80&w=1000&auto=format&fit=crop" 
+               src="image.jpg" 
                alt="Broken Indian Streetlight and Wires" 
                className="w-full h-full object-cover grayscale contrast-125 mix-blend-multiply"
              />
