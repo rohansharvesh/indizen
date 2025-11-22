@@ -65,7 +65,7 @@ export const Hero: React.FC = () => {
             transition={{ duration: 0.8 }}
           >
              <img 
-               src="components/image.jpg" 
+               src="https://media.istockphoto.com/id/1290085267/photo/broken-electricity-wires-hanging-from-a-storm-damaged-suburban-light-pole.jpg?s=2048x2048&w=is&k=20&c=qOKqdJ8mTAKmIxjPKdH2z8Tw-XZh6j5C36pDoUcLvvc=" 
                alt="Broken Indian Streetlight and Wires" 
                className="w-full h-full object-cover grayscale contrast-125 mix-blend-multiply"
              />
